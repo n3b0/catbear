@@ -3,6 +3,6 @@ class PagesController < ApplicationController
   end
 end
 class PagesController < ApplicationController
-  def home
+  def gallery
   end
 end
