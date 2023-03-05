@@ -3,101 +3,68 @@
   background-position: center;
   background-color: black;
   padding: 40px;
-  margin: 60px;
+  margin: 16%;
   margin-top: 20px;
   border-radius: 5px;
-  border-color: #ff94e5;
+  border-color:rgb(228, 157, 214) ;
   border-style:solid;
+  /* box-shadow: 25px 25px 20px#ff94e5; */
+  text-decoration: none;
+
 }
 
 
 .banner p {
-  font-size: 12px;
-  color: white;
+  font-size: 16px;
+  color: rgb(228, 157, 214);
   opacity: .7;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
-  font-family: 'Courier New', Courier, monospace;
-
+  /* text-shadow:  3px 3px 20px rgb(238, 149, 195); */
+  font-family:monospace;
+  margin: 16px;
+  text-decoration: none;
 }
 
 p {
-  margin: 5;
+  /* margin: 5; */
   color: white;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  /* text-shadow: 1px 1px 3px #ff94e5; */
   font-size: 32px;
   font-weight: bold;
   text-align: center;
+  text-decoration: none;
 }
 
 
 
-/* Links inside the navbar */
 
 
-.banner2 {
-  background-size: cover;
-  background-position: center;
-  background-color: black;
-  padding: 20px;
-  margin: 60px;
-  margin-top: 20px;
-  border-radius: 5px;
-  border-color: #ff94e5;
-  border-style:solid;
-  border-spacing: 50px;
-  display: inline-block;
+
+.find{
+  margin: 20px;
+  color: aquamarine;
+}
+.last{
+  margin: 20px;
 }
 
-
-.banner2 p {
-  font-size: 12px;
-  margin:auto;
-  color: white;
-  opacity: .7;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
-  font-family: 'Courier New', Courier, monospace;
-  display:grid;
-
+a:link {
+  text-decoration: none;
 
 }
 
-.banner2 container {
-  display: flex;
+a:visited {
+  text-decoration: none;
 }
 
-.banner3 {
-  /* background-size: cover; */
-  background-position: center;
-  background-color: black;
-  padding: 20px;
-  margin: 8px;
-  margin-top: 11px;
-  border-radius: 5px;
-  border-color: #ff94e5;
-  border-style:solid;
-  flex-wrap: wrap;
-  display: inline-block;
-  box-shadow: #ddd;
-  justify-content: center;
-
+a:hover {
+  text-decoration: none;
 
 }
 
-
-.banner3 p {
-  font-size: 12px;
-  flex-wrap: wrap;
-  padding-block: 3px;
-  color: white;
-  opacity: .7;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
-  font-family: 'Courier New', Courier, monospace;
-  margin:auto;
-  padding: 0%;
-  display: flex;
+a:active {
+  text-decoration: none;
 }
-.buttonwrap {
-  display: flex;
-  /* margin-left: 16px; */
-  justify-content: center;
+a{
+  text-decoration: none;
+
 }
