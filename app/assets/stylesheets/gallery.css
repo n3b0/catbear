@@ -2,3 +2,29 @@
   /* display: flex; */
   margin: 50px;
 }
+.banner-tbd{
+
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+    padding: 0px;
+    margin: 16%;
+    margin-top: 20px;
+    border-radius: 15px;
+    border-color:black ;
+    border-style:solid;
+    /* box-shadow: 25px 25px 20px#ff94e5; */
+    text-decoration: none;
+
+  }
+
+
+  .banner-tbd p {
+    font-size: 15px;
+    color: rgb(228, 157, 214);
+    opacity: .7;
+    /* text-shadow:  3px 3px 20px rgb(238, 149, 195); */
+    font-family:monospace;
+    margin: 15px;
+    text-decoration: none;
+  }

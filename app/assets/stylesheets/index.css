@@ -2,3 +2,61 @@
   /* display: flex; */
   margin: 50px;
 }
+
+.container p{
+  color:rgb(228, 157, 214);
+}
+
+.banner2 {
+  background-size: cover;
+  background-position: center;
+  background-color: black;
+  padding: 0px;
+  margin: 16%;
+  margin-top: 20px;
+  border-radius: 25px;
+  border-color:rgb(228, 157, 214) ;
+  border-style:solid;
+  /* box-shadow: 25px 25px 20px#ff94e5; */
+  text-decoration: none;
+
+}
+
+
+.banner2 p {
+  font-size: 15px;
+  color: rgb(228, 157, 214);
+  opacity: .7;
+  /* text-shadow:  3px 3px 20px rgb(238, 149, 195); */
+  font-family:monospace;
+  margin: 15px;
+  text-decoration: none;
+}
+.banner3 {
+  background-size: cover;
+  background-position: center;
+  background-color: black;
+  padding: 0px;
+  margin: 16%;
+  margin-top: 20px;
+  border-radius: 25px;
+  border-color:rgb(228, 157, 214) ;
+  border-style:solid;
+  /* box-shadow: 25px 25px 20px#ff94e5; */
+  text-decoration: none;
+
+}
+
+
+.banner3 p {
+  font-size: 15px;
+  color: rgb(228, 157, 214);
+  opacity: .7;
+  /* text-shadow:  3px 3px 20px rgb(238, 149, 195); */
+  font-family:monospace;
+  margin: 15px;
+  text-decoration: none;
+}
+.menu p{
+  color:rgb(205, 197, 203);
+}
